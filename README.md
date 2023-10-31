@@ -1,1 +1,3 @@
-# visualg_2020
+# Exercicios de Visualg
+
+Exercícios de lógica que realizei utilizando a ferramenta Visualg
